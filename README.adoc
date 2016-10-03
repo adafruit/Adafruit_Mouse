@@ -1,3 +1,8 @@
+= Adafruit_Mouse Library for Arduino =
+
+This is a derivative of the below, but with 'absolute' mouse capability!
+Handy for DIY trackpads
+
 = Mouse Library for Arduino =
 
 This library allows an Arduino board with USB capabilites to act as a Mouse.
