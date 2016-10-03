@@ -1,7 +1,7 @@
 = Adafruit_Mouse Library for Arduino =
 
 This is a derivative of the below, but with 'absolute' mouse capability!
-Handy for DIY trackpads
+Handy for DIY trackpads. New descriptor from https://github.com/nospam2000/Arduino/commit/7b77d1e84d7b80819f049e5fd6e7bafa0d06521f
 
 = Mouse Library for Arduino =
 
